@@ -12,7 +12,7 @@
 * If you want to deactivate your virtual environment:
   - `deactivate`
 * Install dependencies
-  - pip install -r requirements.txt
+  - `pip install -r requirements.txt`
 
 You can run the application with: `python app.py`.
 The recommended way of running the app is: `flask run`. But you might need to configure some environment variables like:
