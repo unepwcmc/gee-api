@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Custom
+## Virtual environment
+gee-api/
+venv/
+## Other
+bin/
+pip-selfcheck.json
+pyvenv.cfg
